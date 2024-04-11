@@ -1,0 +1,270 @@
+BulbNecklace: {
+}
+
+SeasideEnchantment: {
+	DisplayName: Seaside Enchantment
+	Tooltip:
+		'''
+		You can walk on water
+		+25 fishing power
+		+4 life regen speed
+		+10 defense when in the ocean biome
+		'''
+}
+
+NightEnchantment: {
+	DisplayName: Night Enchantment
+	Tooltip:
+		'''
+		You are immune to lava
+		You are also immune to fire blocks
+		+10 defense when in the underworld
+		+4 life regen when in the underworld
+		Effects of inferno potion when in the underworld
+		'''
+}
+
+LeafEnchantment: {
+	DisplayName: Leaf Enchantment
+	Tooltip:
+		'''
+		You are immune to Venom and Poisoned
+		You can auto jump
+		+4 defense when in the jungle
+		+2 life regen when in the jungle
+		increased mana regen when in the jungle
+		+20 max mana
+		'''
+}
+
+ForceofNight: {
+	DisplayName: Force of Night
+	Tooltip:
+		'''
+		[i:AlienBloxMod/SeasideEnchantment] Effects of Seaside Enchantment
+		[i:AlienBloxMod/NightEnchantment] Effects of Night Enchantment
+		[i:AlienBloxMod/LeafEnchantment] Effects of Leaf Enchantment
+		'''
+}
+
+LivingFruit: {
+	DisplayName: Living Fruit
+	Tooltip:
+		'''
+		+1 max minion
+		+5% summon damage
+		Effects of dangersense and hunter potions
+		'''
+}
+
+CoreofAres: {
+	DisplayName: Core of Ares
+	Tooltip:
+		'''
+		Grants immunity to Miracle Blight
+		Grants knockback immunity
+		+20% increased damage
+		Extra mobility
+		'Torn from the scraps of a defeated foe'
+		'''
+}
+
+ExoRose: {
+	DisplayName: Exo Rose
+	Tooltip:
+		'''
+		+3 max minions
+		+2 max sentries
+		Effects of all Exomechanical parts
+		[i:AlienBloxMod/CoreofAres] Effects of Core of Ares
+		[i:AlienBloxMod/ExoLense] Effects of Exo Lense
+		[i:AlienBloxMod/ExoWorm] Effects of Exo Worm
+		'The essence of the Exomechanical terrors shimmer on the surface'
+		'''
+}
+
+ExoLense: {
+	Tooltip:
+		'''
+		Grants immunity to On Fire! and Cursed Inferno
+		Grants autoswing to all items
+		'Torn from the eyes of a defeated foe'
+		'''
+	DisplayName: Exo Lense
+}
+
+MysticBulbAcc: {
+	DisplayName: Mystic Bulb
+	Tooltip:
+		'''
+		Increases magic stats
+		+100 max mana
+		+15% magic damage
+		Faster mana regen
+		You emit light
+		'''
+}
+
+MysticTruffleAcc: {
+	DisplayName: Mystic Truffle
+	Tooltip:
+		'''
+		+10 fishing power
+		+4% crit when under DoT debuffs
+		+15% damage when under DoT debuffs
+		+15% attack speed when under DoT debuffs
+		Immunity to Feral Bite and Bleed
+		Increased flight
+		Infinite wet debuff
+		'''
+}
+
+ExoWorm: {
+	DisplayName: Exo LED
+	Tooltip:
+		'''
+		Increases luck
+		+100 defense ignorance
+		Effects of ammo box
+		'''
+}
+
+CoreofFright: {
+	DisplayName: Core of Fright
+	Tooltip:
+		'''
+		+20 defense ignorance
+		+15% increased damage
+		+6% crit chance
+		'Torn from the skull of a defeated foe'
+		'''
+}
+
+CoreofMight: {
+	DisplayName: Core of Might
+	Tooltip:
+		'''
+		+5% damage reduction
+		Grants immunity to poisoned and bleeding
+		Increased flight
+		'Torn from the segment of a defeated foe'
+		'''
+}
+
+CoreofSight: {
+	DisplayName: Core of Sight
+	Tooltip:
+		'''
+		+10% increased placing speed
+		+2 placement range
+		Effects of dangersense and hunter potion
+		Reduced spawn rates
+		'Torn from the eyes of a defeated foe'
+		'''
+}
+
+MechanicalCore: {
+	DisplayName: Mechanical Core
+	Tooltip:
+		'''
+		[i:AlienBloxMod/CoreofFright] Effects of Core of Fright
+		[i:AlienBloxMod/CoreofMight] Effects of Core of Might
+		[i:AlienBloxMod/CoreofSight] Effects of Core of Sight
+		'This is only the beginning'
+		'''
+}
+
+MysticCore: {
+	DisplayName: Mystic Core
+	Tooltip:
+		'''
+		Grants immunity to distorted
+		Effects of ammo reservation potion
+		'''
+}
+
+CursedWormTooth: {
+	DisplayName: Cursed Worm Tooth
+	Tooltip:
+		'''
+		Immunity to Ichor and Cursed Inferno
+		You get 20+ defense when afflicted with Withered Armor
+		You get +60% damage when afflicted with Withered Weapon
+		'''
+}
+
+EmpressCrown: {
+	DisplayName: Empress Crown
+	Tooltip:
+		'''
+		Immunity to Purified (Fargo's Souls only)
+		Stats boosted when in the Hallow
+		Increased life regen when consuming mana
+		+20 max mana
+		'''
+}
+
+ChunkofFlesh: {
+	DisplayName: Chunk of Flesh
+	Tooltip:
+		'''
+		Bleeding cancels out debuff and gives +5 life regen
+		Mana Sickness increases magic regen and crit chance
+		You are also extra lucky
+		'''
+}
+
+ClumpofFlesh: {
+	DisplayName: Clump of Flesh
+	Tooltip:
+		'''
+		[i:AlienBloxMod/EmpressCrown] Effects of Empress Crown
+		[i:AlienBloxMod/ChunkofFlesh] Effects of Chunk of Flesh
+		[i:AlienBloxMod/CursedWormTooth] Effects of Cursed Worm Tooth
+		'A terror made from enemies of light and dark'
+		'''
+}
+
+AstralTooth: {
+	DisplayName: Astral Tooth
+	Tooltip:
+		'''
+		All attacks inflict Astral Infection
+		Grants immunity to Astral Infection
+		'Ripped from the head of a defeated foe'
+		'''
+}
+
+DevourerTooth: {
+	DisplayName: Devourer Tooth
+	Tooltip:
+		'''
+		Grants immunity to God Slayer Inferno
+		Increased stats when in space
+
+		Attacks inflict God Slayer Inferno
+		'A tooth made from the cold clusters of Cosmic Steel'
+		'''
+}
+
+OceanOrb: {
+	DisplayName: Ocean Orb
+	Tooltip:
+		'''
+		You ignore water movement
+		Increased stats when in water
+		+0.05 luck
+		'Is mayonnaise an instrument?'
+		'''
+}
+
+AscendentClumpofTeeth: {
+	DisplayName: Ascendent Cosmic Orb
+	Tooltip:
+		'''
+		[i:AlienBloxMod/OceanOrb] Effects of Devourer Tooth
+		[i:AlienBloxMod/DevourerTooth] Effects of Ocean Orb
+		[i:AlienBloxMod/AstralTooth] Effects of Astral Tooth
+		'Made from the creations of Draedon'
+		'''
+}

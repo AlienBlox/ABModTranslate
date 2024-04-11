@@ -1,0 +1,39 @@
+FakeTerminus: {
+	DisplayName: Fake Terminus
+	Tooltip: Summons poop rush
+}
+
+DebugSword: {
+	DisplayName: Debug Sword
+	Tooltip: One shots stuff
+}
+
+DrunkPrincessSpawnEgg: {
+	DisplayName: Drunk Princess Spawn Egg
+	Tooltip: Currently does nothing
+}
+
+AncientCultistSpawnEgg: {
+	DisplayName: Lunatic Spawn Egg
+	Tooltip: Spawns the Lunatic Cultist
+}
+
+PlantBossSpawnEgg: {
+	DisplayName: Plantera Spawn Egg
+	Tooltip: Spawns Plantera
+}
+
+StunGun: {
+	DisplayName: Stun Gun
+	Tooltip: Stuns enemies
+}
+
+KBDummySpawnEgg: {
+	DisplayName: KB Dummy Spawn Egg
+	Tooltip: Spawns a knockback dummy
+}
+
+TestStuffMountNoCart: {
+	DisplayName: Test Stuff Mount No Cart
+	Tooltip: ""
+}

@@ -1,0 +1,14 @@
+FrostStoneBar: {
+	DisplayName: Froststone Bar
+	Tooltip: ""
+}
+
+NightFlareBar: {
+	DisplayName: Nightflare Bar
+	Tooltip: ""
+}
+
+BloomBar: {
+	DisplayName: Bloom Bar
+	Tooltip: ""
+}

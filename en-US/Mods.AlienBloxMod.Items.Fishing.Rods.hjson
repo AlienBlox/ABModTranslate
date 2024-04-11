@@ -1,0 +1,27 @@
+RainbowEnergyHook: {
+	DisplayName: Rainbow Energy Rod
+	Tooltip: A fishing rod made from the finest rods of fire and earth
+}
+
+EnchantedRod: {
+	DisplayName: Enchanted Rod
+	Tooltip: Can fish in lava
+}
+
+TyrantsRod: {
+	DisplayName: Yharim's Rod
+	Tooltip:
+		'''
+		'A rod once used by the tyrant'
+		Can fish in lava
+		'''
+}
+
+DraedonsRod: {
+	DisplayName: Draedon's Rod
+	Tooltip:
+		'''
+		'A rod once used by the master blacksmith'
+		Can fish in lava
+		'''
+}

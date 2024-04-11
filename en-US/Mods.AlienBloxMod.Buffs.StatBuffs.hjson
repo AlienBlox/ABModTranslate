@@ -1,0 +1,79 @@
+LowGravityBuff: {
+	DisplayName: Low Gravity
+	Description: Your flight stats are increased
+}
+
+MilkBucket: {
+	DisplayName: Milk Bucket
+	Description: Moooo
+}
+
+MutantMinionBuff: {
+	DisplayName: Mutant
+	Description: Mutant will protect you
+}
+
+PinkMouseBuff: {
+	DisplayName: Pink Slime
+	Description: The Pink Slime will protect you
+}
+
+YharonMinionBuff: {
+	DisplayName: Tyrant's Friend
+	Description: The friend of the Tyrant will protect you
+}
+
+MountTest1Buff: {
+	DisplayName: Mount Test1 Buff
+	Description: Mods.AlienBloxMod.Buffs.StatBuffs.MountTest1Buff.Description
+}
+
+PetCrabBuff: {
+	Description: A pet crab that does not pinch
+	DisplayName: Pet Crab Buff
+}
+
+EocMountBuff: {
+	Description: Riding on a eye
+	DisplayName: Eye of Cthulhu Mount
+}
+
+AntlionBuff: {
+	Description: The Antlion Charger will protect you
+	DisplayName: Antlion Charger
+}
+
+SquirrelBuff: {
+	DisplayName: Squirrel Minion
+	Description: The squirrel will protect you
+}
+
+VultureBuff: {
+	Description: The Vulture will protect you
+	DisplayName: Vulture Minion
+}
+
+SeasideWhipDebuff: {
+	Description: Mods.AlienBloxMod.Buffs.StatBuffs.SeasideWhipDebuff.Description
+	DisplayName: Seaside Whip Debuff
+}
+
+WeaponImbueMiracleMatter: {
+	Description: Melee and Whip attacks inflict Miracle Blight
+	DisplayName: Weapon Imbue: Miracle Blight
+}
+
+WeaponImbueEMode: {
+	Description: Melee and Whip attacks inflict God Eater
+	DisplayName: Weapon Imbue: God Eater
+}
+
+WeaponImbueCalamity: {
+	Description: Melee and Whip attacks inflict Vulnerability Hex
+	DisplayName: Weapon Imbue: Vulnerability Hex
+}
+
+WeaponImbueAuric: {
+	Description: Melee and Whip attacks inflict Dragonfire
+	DisplayName: Weapon Imbue: Dragonfire
+}

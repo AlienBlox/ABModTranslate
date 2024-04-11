@@ -1,0 +1,172 @@
+EndlessBoxofBombs: {
+	DisplayName: Endless Box of Bombs
+	Tooltip: Contains an endless amount of bombs
+}
+
+EndlessBoxofStickyBombs: {
+	DisplayName: Endless Box of Sticky Bombs
+	Tooltip: Contains an endless amount of sticky bombs
+}
+
+EndlessBoxofDirtBombs: {
+	DisplayName: Endless Box of Dirt Bombs
+	Tooltip: Contains an endless amount of dirt bombs
+}
+
+EndlessBoxofStickyDirtBombs: {
+	DisplayName: Endless Box of Sticky Dirt Bombs
+	Tooltip: Contains an endless amount of sticky dirt bombs
+}
+
+EndlessBundleOfStickyDynamite: {
+	DisplayName: Endless Bundle of Sticky Dynamite
+	Tooltip: Contains an endless amount of sticky dynamite
+}
+
+EndlessBundleOfDynamite: {
+	DisplayName: Endless Bundle of Dynamite
+	Tooltip: Contains an endless amount of dynamite
+}
+
+EndlessBundleOfChaos: {
+	DisplayName: Endless Bundle of Bouncy Dynamite
+	Tooltip: Contains an endless amount of chaos!
+}
+
+EndlessBoxofWaterBombs: {
+	DisplayName: Endless Box of Wet Bombs
+	Tooltip: Contains an endless amount of wet bombs
+}
+
+EndlessBoxofDryBombs: {
+	DisplayName: Endless Box of Dry Bombs
+	Tooltip: Contains an endless amount of dry bombs
+}
+
+EndlessBoxofHoneyBombs: {
+	DisplayName: Endless Box of Honey Bombs
+	Tooltip: Contains an endless amount of honey bombs
+}
+
+EndlessBoxofLavaBombs: {
+	DisplayName: Endless Box of Lava Bombs
+	Tooltip: Contains an endless amount of lava bombs
+}
+
+EndlessBoxofScarabBombs: {
+	DisplayName: Endless Box of Scarab Bombs
+	Tooltip: Contains an endless amount of Scarab bombs
+}
+
+EndlessBoxofBouncyBombs: {
+	Tooltip: Contains an endless amount of chaotic bombs!
+	DisplayName: Endless Box of Bouncy Bombs
+}
+
+CosmicChum: {
+	DisplayName: Cosmic Chum
+	Tooltip:
+		'''
+		Made from the armor of the devourer
+		Can be used forever
+		'''
+}
+
+CosmicBait: {
+	DisplayName: Cosmic Bait
+	Tooltip:
+		'''
+		Made from the meat of the devourer
+		Can be used forever
+		'''
+}
+
+CosmicFertilizer: {
+	DisplayName: Cosmic Fertilizer
+	Tooltip:
+		'''
+		Made from the essence of the devourer
+		Can be used forever
+		'''
+}
+
+AeroGlowsticksInfinite: {
+	DisplayName: Aero Glowstick
+	Tooltip:
+		'''
+		Made from the rocks of the sky
+		Can be used forever
+		'''
+}
+
+InfiniteGlowStick: {
+	DisplayName: Infinite Glowstick
+	Tooltip:
+		'''
+		Made from the clusters of glowsticks
+		Can be used forever
+		'''
+}
+
+InfiniteChaosGlowStick: {
+	DisplayName: Infinite Chaos Glowstick
+	Tooltip:
+		'''
+		Made from the pink stuff of some slimes
+		Can be used forever
+		'''
+}
+
+StickyGlowStickInfinite: {
+	DisplayName: Infinite Sticky Glowstick
+	Tooltip:
+		'''
+		Made from the the flesh of slimes
+		Can be used forever
+		'''
+}
+
+EndlessLovePotion: {
+	DisplayName: Endless Love Potion
+	Tooltip:
+		'''
+		Throw this to make someone fall in love
+		Can be used forever
+		'''
+}
+
+EndlessStinkPotion: {
+	DisplayName: Endless Stink Potion
+	Tooltip:
+		'''
+		Throw this to make someone smell terrible
+		Can be used forever
+		'''
+}
+
+EndlessSparkleSlimeBalloon: {
+	DisplayName: Endless Sparkle Slime Balloon
+	Tooltip:
+		'''
+		'Filled with Party Girl bathwater'
+		Can be used forever
+		'''
+}
+
+UltrabrightGlowStick: {
+	DisplayName: Ultrabright Glowstick
+	Tooltip:
+		'''
+		Emits a strong amount of light
+		Can be used forever
+		'''
+}
+
+UltraBrightGlowstick: {
+	Tooltip:
+		'''
+		Emits a very strong light
+		Can be used forever
+		'''
+	DisplayName: Ultrabright Glowstick
+}

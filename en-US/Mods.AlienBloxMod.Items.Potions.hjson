@@ -1,0 +1,57 @@
+UltraManaPotion: {
+	DisplayName: Ultra Mana Potion
+	Tooltip: ""
+}
+
+UltraRestorationPotion: {
+	DisplayName: Ultra Restoration Potion
+	Tooltip: ""
+}
+
+SussyStew: {
+}
+
+FlightPotion: {
+	DisplayName: Flight Potion
+	Tooltip: Increases flight stats
+}
+
+MilkItem: {
+	DisplayName: Milk Bucket
+	Tooltip: A drinkable Ankh Shield!
+}
+
+PremiumQualityTastyDragonEgg: {
+	DisplayName: Yharon's Egg
+	Tooltip: "'The egg of a defeated foe'"
+}
+
+ChocolateCake: {
+	DisplayName: Chocolate Cake
+	Tooltip:
+		'''
+		A cake made from...
+
+		Poo
+		'''
+}
+
+FlaskCalamity: {
+	DisplayName: Flask of Vulnerability Hex
+	Tooltip: Melee and Whip attacks inflict Vulnerability Hex
+}
+
+FlaskMiracleMatter: {
+	DisplayName: Flask of Miracle Blight
+	Tooltip: Melee and Whip attacks inflict Miracle Blight
+}
+
+FlaskEternityMode: {
+	DisplayName: Flask of Eternity
+	Tooltip: Melee and Whip attacks inflict God Eater
+}
+
+FlaskAuric: {
+	DisplayName: Flask of Dragonfire
+	Tooltip: Melee and Whip attacks Dragonfire
+}

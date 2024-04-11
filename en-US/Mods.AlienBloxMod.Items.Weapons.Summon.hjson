@@ -1,0 +1,42 @@
+PinkMouseStaff: {
+	DisplayName: Pink Slime Staff
+	Tooltip: Summons a Pink Slime to fight for you
+}
+
+MutantStaff: {
+	DisplayName: Mutant Staff
+	Tooltip:
+		'''
+		Summons Mutant to aid your battles
+		Ignores 9999 points of defense
+		'''
+}
+
+AntlionCane: {
+	DisplayName: Antlion Cane
+	Tooltip:
+		'''
+		Summons a friendly antlion to fight for you
+		Ignores 15 points of defense
+		'''
+}
+
+SquirrelStaff: {
+	DisplayName: Squirrel Staff
+	Tooltip: Summons a squirrel to fight for you
+}
+
+VultureStaff: {
+	DisplayName: Vulture Staff
+	Tooltip:
+		'''
+		Summons a vulture to fight for you
+		Ignores 5 points of defense
+		'''
+}
+
+SeasideWhipItem: {
+	Name: Seaside Whip
+	Tooltip: "'A whip made from seashells'"
+	DisplayName: Seaside Whip Item
+}

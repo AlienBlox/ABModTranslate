@@ -1,0 +1,9 @@
+InfectedStoneItem: {
+	DisplayName: Infected Stone Block
+	Tooltip: ""
+}
+
+InfectedDirtItem: {
+	DisplayName: Infected Dirt Block
+	Tooltip: ""
+}

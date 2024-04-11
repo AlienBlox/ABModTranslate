@@ -1,0 +1,14 @@
+FrostStoneOre: {
+	DisplayName: Froststone
+	Tooltip: ""
+}
+
+BloomOre: {
+	DisplayName: Bloomstone Ore
+	Tooltip: "'Contains the essence of the jungle'"
+}
+
+NightFlareOre: {
+	DisplayName: Nightflare Ore
+	Tooltip: "'A strange sound emits from this rock'"
+}

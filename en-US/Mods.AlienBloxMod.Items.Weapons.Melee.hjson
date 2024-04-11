@@ -1,0 +1,45 @@
+NightsEdgeJoke: {
+	DisplayName: Poopy Night's Edge
+	Tooltip: ...
+}
+
+EnchantedSaber: {
+	DisplayName: Enchanted Saber
+	Tooltip: Ignores 25 points of enemy defense
+}
+
+TerraSaber: {
+	DisplayName: Terra Saber
+	Tooltip: Forged from the finest metal of Terraria
+}
+
+TrueSlapHand: {
+	DisplayName: True Slap Hand
+	Tooltip: Make your enemies fly to space!
+}
+
+DebugSword: {
+	DisplayName: Debug Sword
+	Tooltip: ""
+}
+
+PhantasmalSphereofAlienblox1234: {
+	DisplayName: Elemental Spear of the Pancake Tyrant
+	Tooltip: The spear of a defeated foe
+}
+
+SeaBlade: {
+	DisplayName: Seablade
+	Tooltip: ""
+}
+
+TreeBlade: {
+	DisplayName: Treeblade
+	Tooltip:
+		'''
+		Shoots out acorns
+		Ignores 15 points of defense
+
+		'This is only the beginning'
+		'''
+}

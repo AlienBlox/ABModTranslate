@@ -1,0 +1,39 @@
+MissingTexture: {
+	DisplayName: Missing Block
+	Tooltip: How did u get dat?
+}
+
+RainbowPlate: {
+	DisplayName: Rainbow Plating
+	Tooltip: ""
+}
+
+PlanteraBulbDebugItem: {
+	DisplayName: Plantera Debugger
+	Tooltip: For testing only
+}
+
+BulletProofGlass: {
+	DisplayName: Bulletproof Glass
+	Tooltip: Immune to explosives
+}
+
+PlaceableChum: {
+	DisplayName: Chum Bucket (Placable)
+	Tooltip: ""
+}
+
+PlaceableCosmicChum: {
+	DisplayName: Cosmic Chum (Placable)
+	Tooltip: Devourer of Chum is here
+}
+
+BlenderItem: {
+	DisplayName: Blender
+	Tooltip: Used to craft liquid related items
+}
+
+SeaConstruct: {
+	Tooltip: Used for special crafting
+	DisplayName: Sea Construct
+}

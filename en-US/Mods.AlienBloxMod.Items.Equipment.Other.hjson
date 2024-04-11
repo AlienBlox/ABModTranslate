@@ -1,0 +1,29 @@
+EnchantedCarp: {
+	DisplayName: Enchanted Carp
+	Tooltip:
+		'''
+		Increases fishing skill and defense
+		+4 defense
+		+25 fishing power
+		'''
+}
+
+MiracleMatterFish: {
+	Tooltip:
+		'''
+		Increases fishing skill and defense
+		+50 defense
+		+40 fishing power
+		Effects of Inferno Potion
+		Greatly reduced spawn rates
+		Effects of Crate Potion
+		Increased mobility
+		You take no knockback
+		'''
+	DisplayName: Miracle Matter Fish
+}
+
+PigronNoseVanity: {
+	DisplayName: Pigron Nose
+	Tooltip: "'Oink!'"
+}
