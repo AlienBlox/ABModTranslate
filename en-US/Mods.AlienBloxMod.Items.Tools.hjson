@@ -132,7 +132,6 @@ NoxusPickaxe: {
 	DisplayName: Noxus Pickaxe
 	Tooltip:
 		'''
-		Can mine Auric
 		[c/7E85F0:'A pickaxe once used by the Entropic God']
 
 		'''
@@ -140,29 +139,17 @@ NoxusPickaxe: {
 
 DivinePickaxe: {
 	DisplayName: Divine Pickaxe
-	Tooltip:
-		'''
-		Can mine Auric
-		[c/FAAFFF:'you have passed the test']
-		'''
+	Tooltip: "[c/FAAFFF:'you have passed the test']"
 }
 
 DraedonPickaxe: {
 	DisplayName: Draedon's Pickaxe
-	Tooltip:
-		'''
-		Can mine Auric
-		'A pickaxe once used by Draedon'
-		'''
+	Tooltip: "'A pickaxe once used by Draedon'"
 }
 
 ExoDrill: {
 	DisplayName: Exo Drill
-	Tooltip:
-		'''
-		Can mine Auric
-		'A drill once used by Draedon'
-		'''
+	Tooltip: "'A drill once used by Draedon'"
 }
 
 DrillFish: {
@@ -182,4 +169,14 @@ MeteorDrill: {
 AstralDrill: {
 	DisplayName: Astral Drill
 	Tooltip: ""
+}
+
+TarragonDrill: {
+	DisplayName: Tarragon Drill
+	Tooltip: ""
+}
+
+SkyfringeDrill: {
+	DisplayName: Skyfringe Drill
+	Tooltip: Can mine Hellstone
 }
