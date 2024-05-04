@@ -1,0 +1,34 @@
+PinkMouseBuff: {
+	DisplayName: Pink Slime
+	Description: The Pink Slime will protect you
+}
+
+MechAlglamBuff: {
+	DisplayName: Mech Alglam
+	Description: The mechanical menaces has returned!
+}
+
+LeadPoisoning: {
+	DisplayName: Lead Poisoning
+	Description: You are dying of Lead Poisoning
+}
+
+MutantMinionBuff: {
+	Description: Mutant will protect you
+	DisplayName: Mutant Minion Buff
+}
+
+AntlionBuff: {
+	Description: The Antlion will fight for you
+	DisplayName: Antlion Buff
+}
+
+WeaponImbueCalamity: {
+	DisplayName: Weapon Imbue: Vulnerability Hex
+	Tooltip: Melee and Whip attacks inflict Vulnerability Hex
+}
+
+WeaponImbueMiracleMatter: {
+	DisplayName: Weapon Imbue: Miracle Blight
+	Tooltip: Melee and Whip attacks inflict Miracle Blight
+}

@@ -1,0 +1,54 @@
+AmalgamatedSharkBlaster: {
+	DisplayName: Amalgamated Shark Blaster
+	Tooltip: Shoots an Ichorflare bullet
+}
+
+FieryBlaster: {
+	DisplayName: Fiery Blaster
+	Tooltip: ""
+}
+
+FartGun: {
+	DisplayName: Fart Gun
+	Tooltip: Damages enemies with fart
+}
+
+EnchantedSeaBow: {
+	DisplayName: Enchanted Sea Bow
+	Tooltip: ""
+}
+
+EnchantedRepeater: {
+	DisplayName: Enchanted Repeater
+	Tooltip: ""
+}
+
+NightmareRepeater: {
+	DisplayName: Night Repeater
+	Tooltip: ""
+}
+
+BloomRepeater: {
+	Tooltip: ""
+	DisplayName: Bloom Repeater
+}
+
+AcornBlaster: {
+	DisplayName: Acorn Blaster
+	Tooltip:
+		'''
+		Shoots out acorns
+		Costs no ammo
+		Ignores 15 points of defense
+		'''
+}
+
+AcornSlingingPistol: {
+	DisplayName: Acorn Slinging Pistol
+	Tooltip:
+		'''
+		Shoots out acorns
+		Costs no ammo
+		Ignores 15 points of defense
+		'''
+}

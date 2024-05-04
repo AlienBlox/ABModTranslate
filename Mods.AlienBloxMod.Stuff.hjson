@@ -1,0 +1,44 @@
+AlienBloxModConfig: {
+	DisplayName: AlienBloxMod Config
+	Headers.Items: Items
+
+	ReworkedItems: {
+		Label: Reworked Items
+		Tooltip: ""
+	}
+
+	TechnicalTooltips: {
+		Label: Technical Tooltips
+		Tooltip: Shows technical stuff
+	}
+
+	ShowModFromItem: {
+		Label: Show Item Origin
+		Tooltip: Shows the mod which the item is from
+	}
+
+	ViewExactUseTime: {
+		Label: View Exact Use Time
+		Tooltip: Shows the exact use time of the item
+	}
+
+	DonorItemEnabled: {
+		Label: Donor Item Enabled
+		Tooltip: Turn this off if you don't want donor items
+	}
+}
+
+AlienBloxModServerConfig: {
+	DisplayName: AlienBloxMod Server Config
+	Headers.Items: Items
+
+	ReworkedItems: {
+		Label: Reworked Items
+		Tooltip: ""
+	}
+
+	DonorItemEnabled: {
+		Label: Donor Item Enabled
+		Tooltip: Turn this off if you don't want donor items
+	}
+}

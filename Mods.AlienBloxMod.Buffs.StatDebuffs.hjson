@@ -1,0 +1,29 @@
+LeadPoisoning: {
+	DisplayName: Lead Poisoning
+	Description: You are dying from lead
+}
+
+DeliciousMeatAddiction: {
+	DisplayName: Delicious Meat Addiction
+	Description: You are addicted to delicious meat!
+}
+
+Stunned: {
+	DisplayName: Stunned
+	Description: You are frozen!
+}
+
+IchorFlare: {
+	DisplayName: Ichorflare
+	Description: You are burning and defenseless!
+}
+
+Wither: {
+	DisplayName: Wither
+	Description: You are decaying alive!
+}
+
+SeasideWhipDebuff: {
+	DisplayName: Seaside Whip Debuff
+	Description: Mods.AlienBloxMod.Buffs.StatDebuffs.SeasideWhipDebuff.Description
+}

@@ -1,0 +1,9 @@
+MechAlglam: {
+	DisplayName: The Mech Alglam
+	Tooltip: Summons 3 mechanical menaces that keeps you entertained!
+}
+
+PetCrabItem: {
+	DisplayName: Suspicious Looking Crab
+	Tooltip: Summons a crab to keep you entertained
+}

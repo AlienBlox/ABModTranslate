@@ -1,0 +1,34 @@
+TinyRainbowSlime.DisplayName: Tiny Rainbow Slime
+IchorFlareSlime.DisplayName: Ichorflare Slime
+DemonEyes.InfernoEye.DisplayName: Inferno Eye
+
+Bosses: {
+	MegaChlorophyteSlime.DisplayName: Mega Chlorophyte Slime
+	DungeonGuardianEX.DisplayName: Dungeon Guardian EX
+	kingofMagma.DisplayName: Mega Magma Slime
+	KingofMagma.DisplayName: King of Magma
+	KingofMarble.DisplayName: King of Marble
+	KillerBunny.DisplayName: Killer Bunny
+}
+
+TopazSlime.DisplayName: Topaz Slime
+SapphireSlime.DisplayName: Sapphire Slime
+EmeraldSlime.DisplayName: Emerald Slime
+DiamondSlime.DisplayName: Diamond Slime
+AmethystSlime.DisplayName: Amethyst Slime
+AmberSlime.DisplayName: Amber Slime
+KnockBackDummy.DisplayName: KB Dummy
+MudSlime.DisplayName: Mud Slime
+BulbCrawler.DisplayName: Bulb Crawler
+
+CalamitySlimes: {
+	YharimSlime.DisplayName: Yharim Slime
+	ProvidenceSlime.DisplayName: Profaned Slime
+	CosmicSlime.DisplayName: Cosmic Slime
+	BumbleFollySlime.DisplayName: Bumbleslime
+}
+
+MagmaBlob.DisplayName: Magma Blob
+KingofMagma.DisplayName: King of Magma
+KingofMarble.DisplayName: King of Marble
+BoulderMimic.DisplayName: Boulder Mimic

@@ -1,0 +1,90 @@
+MissingTexture: {
+	DisplayName: Missing Block
+	Tooltip: How did u get dat?
+}
+
+RainbowPlate: {
+	DisplayName: Rainbow Plating
+	Tooltip: ""
+}
+
+PlanteraBulbDebugItem: {
+	DisplayName: Plantera Debugger
+	Tooltip: For testing only
+}
+
+BulletProofGlass: {
+	DisplayName: Bulletproof Glass
+	Tooltip: Immune to explosives
+}
+
+PlaceableChum: {
+	DisplayName: Chum Bucket (Placable)
+	Tooltip: ""
+}
+
+PlaceableCosmicChum: {
+	DisplayName: Cosmic Chum (Placable)
+	Tooltip: Devourer of Chum is here
+}
+
+BlenderItem: {
+	DisplayName: Blender
+	Tooltip: Used to craft liquid related items
+}
+
+SeaConstruct: {
+	Tooltip: Used for special crafting
+	DisplayName: Sea Construct
+}
+
+TheDeliciousMeatItem: {
+	DisplayName: The Delicious Meat
+	Tooltip: "'yum'"
+}
+
+TheGamerItem: {
+	DisplayName: The Gamer
+	Tooltip: "'I CAN NEVER DIE!'"
+}
+
+BoulderPaintingItem: {
+	DisplayName: The Ball
+	Tooltip: "'CALAMITOUS MOMENT'"
+}
+
+URMUM: {
+	DisplayName: ERROR
+	Tooltip: TOOLTIP_NOT_FOUND
+}
+
+TheFlexItem: {
+	DisplayName: The Flex
+	Tooltip: "'The ultimate flex'"
+}
+
+TheGrassEater: {
+	DisplayName: The Creeper
+	Tooltip: "'AAAAAAAAAAAAAAAAAAAAAAAAAAAAGH'"
+}
+
+BlueSlimePainting: {
+	DisplayName: The Blue Slime
+	Tooltip: E
+}
+
+MutantSquidwardItem: {
+	DisplayName: Mutant Squidward
+	Tooltip: Grants Mutant Presence when favorited
+}
+
+DeviKrabsItem: {
+	DisplayName: Devi Krabs
+	Tooltip: Grants Devi Presence when favorited
+	ExtraNote: MONEY MONEY MONEY
+}
+
+AbomJellyfish: {
+	DisplayName: Abominationn Jellyfish
+	Tooltip: I FOUND THE KRABBY PATTY VAULT SQUIDWARD!
+}

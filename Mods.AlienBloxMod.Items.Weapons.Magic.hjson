@@ -1,0 +1,69 @@
+FlamingIchorTome: {
+	DisplayName: Ichorflare Tome
+	Tooltip: Ignores 15 points of defense
+}
+
+WitheringTome: {
+	Tooltip: Inflicts Wither
+	DisplayName: Withering Tome
+}
+
+CrimsonEyeStaff: {
+	Tooltip: Shoots an eye laser
+	DisplayName: Crimson Eye Staff
+}
+
+CursedStaff: {
+	Tooltip: Fires an bolt of Cursed Flames
+	DisplayName: Cursed Staff
+}
+
+IchorStaff: {
+	Tooltip: Fires a stream of ichor
+	DisplayName: Ichor Staff
+}
+
+TerraStaff: {
+	Tooltip: Fires a shadowbeam
+	DisplayName: Terra Staff
+}
+
+IchorFlareStaff: {
+	Tooltip: Fires an Ichorflare bolt
+	DisplayName: Ichorflare Staff
+}
+
+PhantasmalEyeStaff: {
+	Tooltip: Fires a Phantasmal Sphere
+	DisplayName: Phantasmal Eye Staff
+}
+
+EnchantedSeaStaff: {
+	DisplayName: Enchanted Sea Staff
+	Tooltip: Fires a bolt of energy
+}
+
+GoldenHeretic: {
+	DisplayName: Golden Heretic Shower
+	Tooltip: Sprays a stream of "molten gold"
+}
+
+PalmWoodStaff: {
+	DisplayName: Palmwood Staff
+	Tooltip: Fires a bolt of energy
+}
+
+ThornStaff: {
+	DisplayName: Thorn Staff
+	Tooltip: Fires a poison thorn
+}
+
+TreeBladeMagic: {
+	DisplayName: Tree Staff
+	Tooltip: Fires a poison thorn
+}
+
+StaffofDarkness: {
+	DisplayName: Staff of Darkness
+	Tooltip: ""
+}

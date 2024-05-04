@@ -1,0 +1,115 @@
+FrostStoneArmor1: {
+	DisplayName: Froststone Pants
+	Tooltip:
+		'''
+		7% increased Summon and Melee damage
+		+1 max minions
+		'''
+}
+
+FrostStoneArmor2: {
+	DisplayName: Froststone Breastplate
+	Tooltip:
+		'''
+		7% increased Summon and Melee damage
+		+1 max minions
+		'''
+}
+
+FrostStoneArmor3: {
+	DisplayName: Froststone Helm
+	Tooltip:
+		'''
+		7% increased whip speed
+		+1 max minions
+		'''
+}
+
+SeasideHelm: {
+	DisplayName: Seaside Helm
+	Tooltip:
+		'''
+		+4% Crit chance
+		+5% Damage
+		Increased run speed
+		+1 max minions
+		'''
+	SetBonus:
+		'''
+		+5% Damage
+		+6% Critical chance
+		Extra mobility
+		'''
+}
+
+SeasideEngineeringHat: {
+	DisplayName: Seaside Engineering Hat
+	Tooltip:
+		'''
+		Increased mining speed
+		Decreases overall spawn rates
+		'''
+	SetBonus:
+		'''
+		You take no knockback
+		Extra mobility
+		'''
+}
+
+SeasidePlate: {
+	DisplayName: Seaside Plate
+	Tooltip:
+		'''
+		+4% Crit chance
+		+5% Damage
+		Increased run speed
+		'''
+}
+
+SeasideGreaves: {
+	DisplayName: Seaside Greaves
+	Tooltip:
+		'''
+		+4% Crit chance
+		+5% Damage
+		Increased run speed
+		'''
+}
+
+GrassyPlate: {
+	DisplayName: Grassy Plate
+	Tooltip:
+		'''
+		+20 max mana
+		+5% increased magic damage
+		'''
+}
+
+GrassyHelm: {
+	DisplayName: Grassy Hat
+	Tooltip:
+		'''
+		+40 max mana
+		+5% increased magic damage
+		+4% increased magic crit
+		Decreased mana usage
+		'''
+	SetBonus:
+		'''
+		Mana regens faster
+		+20 max mana
+		+4% magic crit
+		+10% magic damage
+		Immunity to poison and venom
+		'''
+}
+
+GrassyGreaves: {
+	DisplayName: Grassy Pants
+	Tooltip:
+		'''
+		20+ max mana 
+		+10% increased movement speed
+		+5% magic damage
+		'''
+}

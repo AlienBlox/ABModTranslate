@@ -1,0 +1,84 @@
+FakeTerminus: {
+	DisplayName: Fake Terminus
+	Tooltip: Summons poop rush
+}
+
+DebugSword: {
+	DisplayName: Debug Sword
+	Tooltip: One shots stuff
+}
+
+DrunkPrincessSpawnEgg: {
+	DisplayName: Drunk Princess Spawn Egg
+	Tooltip: Currently does nothing
+}
+
+AncientCultistSpawnEgg: {
+	DisplayName: Lunatic Spawn Egg
+	Tooltip: Spawns the Lunatic Cultist
+}
+
+PlantBossSpawnEgg: {
+	DisplayName: Plantera Spawn Egg
+	Tooltip: Spawns Plantera
+}
+
+StunGun: {
+	DisplayName: Stun Gun
+	Tooltip: Stuns enemies
+}
+
+KBDummySpawnEgg: {
+	DisplayName: KB Dummy Spawn Egg
+	Tooltip: Spawns a knockback dummy
+}
+
+TestStuffMountNoCart: {
+	DisplayName: Test Stuff Mount No Cart
+	Tooltip: ""
+}
+
+DrunkWorldDebugger: {
+	DisplayName: Drunk World Debugger
+	Tooltip: Adds the 'drunk' attribute to the world
+}
+
+BeesDebugger: {
+	DisplayName: Not The Bees Debugger
+	Tooltip: Adds the 'bees' attribute to the world
+}
+
+FTWDebugger: {
+	DisplayName: FTW Debugger
+	Tooltip: Adds the 'FTW' attribute to the world
+}
+
+CelebWorldDebugger: {
+	DisplayName: Celebrationmk10 Debugger
+	Tooltip: Adds the 'Celebration' attribute to the world
+}
+
+DSTWorldDebugger: {
+	DisplayName: DST World Debugger
+	Tooltip: Adds the 'DST' attribute to the world
+}
+
+NoTrapDebugger: {
+	DisplayName: No Trap Debugger
+	Tooltip: Adds the 'No Traps' attribute to the world
+}
+
+DDUWorldDebugger: {
+	DisplayName: DDU Debugger
+	Tooltip: Adds the 'DDU' attribute to the world
+}
+
+GFBDebugger: {
+	DisplayName: GFB Debugger
+	Tooltip: Adds the 'GFB' attribute to the world
+}
+
+ResetDebugger: {
+	DisplayName: Reset Debugger
+	Tooltip: Resets the world's attributes
+}

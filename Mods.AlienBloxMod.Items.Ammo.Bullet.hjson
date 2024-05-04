@@ -1,0 +1,17 @@
+PooBullet: {
+}
+
+HellfireBullet: {
+	DisplayName: Hellfire Bullet
+	Tooltip: Burns enemies
+}
+
+DemoniteShot: {
+	DisplayName: Demonite Bullet
+	Tooltip: ""
+}
+
+BloodyBullet: {
+	DisplayName: Bloody Bullet
+	Tooltip: ""
+}

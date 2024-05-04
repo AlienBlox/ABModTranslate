@@ -1,0 +1,202 @@
+FrostPick: {
+	DisplayName: Frostpick
+	Tooltip: Can mine Cobalt/Palladium
+}
+
+FrostHammer: {
+	DisplayName: Frost Hamaxe
+	Tooltip: ""
+}
+
+InstantShimmer: {
+	DisplayName: Bottled Shimmer
+	Tooltip: Shimmer at any time!
+}
+
+JourneyModeActivate: {
+	DisplayName: Journey Mode Debugger
+	Tooltip: Converts world and character to Journey Mode
+}
+
+SeasidePickaxe: {
+	DisplayName: Seaside Pickaxe
+	Tooltip: Can mine Cobalt / Palladium
+}
+
+SeasideHammer: {
+	DisplayName: Seaside Hammer
+	Tooltip: ""
+}
+
+BloomPickaxe: {
+	DisplayName: Bloom Pickaxe
+	Tooltip: ""
+}
+
+NightPickaxe: {
+	DisplayNameOld: Night's Pickaxe
+	DisplayName: Nightflare Pick
+	Tooltip: Can mine Cobalt / Palladium
+}
+
+UltraBrightGlowstick: {
+	DisplayName: Ultrabright Glowstick
+	Tooltip:
+		'''
+		Emits a strong amount of light
+		Can be used forever
+		'''
+}
+
+SquireCatch: {
+	DisplayName: Squire Slime
+	Tooltip: "'Slime sounds'"
+}
+
+DivaCatch: {
+	DisplayName: Diva Slime
+	Tooltip: "'Slime sounds'"
+}
+
+RedStainedCatch: {
+	DisplayName: Surly Slime
+	Tooltip: "'Slime sounds'"
+}
+
+CalamityCatch: {
+	DisplayName: Mystic Slime
+	Tooltip: "'Slime sounds'"
+}
+
+BalloonCatch: {
+	DisplayName: Clusmy Slime
+	Tooltip: "'Slime sounds'"
+}
+
+CoolCatch: {
+	DisplayName: Cool Slime
+	Tooltip: "'Slime sounds'"
+}
+
+ElderCatch: {
+	DisplayName: Elder Catch
+	Tooltip: "'Slime sounds'"
+}
+
+RoboticPickaxe: {
+	DisplayName: Robotic Pickaxe
+	Tooltip:
+		'''
+		Can mine Cobalt / Palladium
+		Sets enemies on fire
+		'A pickaxe made from wires and bulbs'
+		'''
+}
+
+DebugStaff: {
+	DisplayName: Debug Staff
+	Tooltip: No uses... yet
+}
+
+NightsPickaxe: {
+	DisplayName: Night's Pickaxe
+	Tooltip: Can mine Cobalt / Palladium
+}
+
+TrueNightsPickaxe: {
+	DisplayName: True Night's Pickaxe
+	Tooltip: ""
+}
+
+TruePickaxeAxe: {
+	DisplayName: True Pickaxe Axe
+	Tooltip: ""
+}
+
+TerraPickaxe: {
+	DisplayName: Terra Pickaxe
+	Tooltip: Can mine Lihzahrd Bricks
+}
+
+WITCHCAPTURED: {
+	DisplayName: Brimstone Witch
+	Tooltip: "'If you've got any curses you want dispelled... well I'm not your person.'"
+}
+
+EndlessHealingPotion: {
+	DisplayName: Endless Healing Potion
+	Tooltip: Can be used forever
+}
+
+NoxusPickaxe: {
+	DisplayName: Noxus Pickaxe
+	Tooltip:
+		'''
+		[c/7E85F0:'A pickaxe once used by the Entropic God']
+
+		'''
+}
+
+DivinePickaxe: {
+	DisplayName: Divine Pickaxe
+	Tooltip: "[c/FAAFFF:'you have passed the test']"
+}
+
+DraedonPickaxe: {
+	DisplayName: Draedon's Pickaxe
+	Tooltip: "'A pickaxe once used by Draedon'"
+}
+
+ExoDrill: {
+	DisplayName: Exo Drill
+	Tooltip: "'A drill once used by Draedon'"
+}
+
+DrillFish: {
+	DisplayName: Drillfish
+	Tooltip:
+		'''
+		Can mine Cobalt / Palladium
+		'Half drill, half drill, completely awesome.'
+		'''
+}
+
+MeteorDrill: {
+	DisplayName: Meteor Drill
+	Tooltip: Can mine Hellstone
+}
+
+AstralDrill: {
+	DisplayName: Astral Drill
+	Tooltip: ""
+}
+
+TarragonDrill: {
+	DisplayName: Tarragon Drill
+	Tooltip: ""
+}
+
+SkyfringeDrill: {
+	DisplayName: Skyfringe Drill
+	Tooltip: Can mine Hellstone
+}
+
+DesertDigger: {
+	DisplayName: Desert Digger
+	Tooltip: Can mine Meteorite
+}
+
+RoboticDrill: {
+	DisplayName: Robotic Drill
+	Tooltip: ""
+}
+
+AbyssBreaker: {
+	DisplayName: Abyss Breaker
+	Tooltip: Sets enemies on fire
+}
+
+CryoDrill: {
+	DisplayName: Cryo Drill
+	Tooltip: Inflicts Frostbite
+}
